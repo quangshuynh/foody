@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/foody/static/css/main.ff18cd60.css",
-    "main.js": "/foody/static/js/main.0944171e.js",
+    "main.js": "/foody/static/js/main.7fe64c1b.js",
     "static/js/453.1418cba3.chunk.js": "/foody/static/js/453.1418cba3.chunk.js",
     "static/media/eracake.regular.ttf": "/foody/static/media/eracake.regular.02e659d7b30dafa37468.ttf",
     "index.html": "/foody/index.html",
     "main.ff18cd60.css.map": "/foody/static/css/main.ff18cd60.css.map",
-    "main.0944171e.js.map": "/foody/static/js/main.0944171e.js.map",
+    "main.7fe64c1b.js.map": "/foody/static/js/main.7fe64c1b.js.map",
     "453.1418cba3.chunk.js.map": "/foody/static/js/453.1418cba3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff18cd60.css",
-    "static/js/main.0944171e.js"
+    "static/js/main.7fe64c1b.js"
   ]
 }
